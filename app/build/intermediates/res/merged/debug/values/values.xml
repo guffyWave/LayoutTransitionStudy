@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/gufran/AndroidStudioProjects/LayoutTransChanging/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="addButton">Add Item</string>
+    <string name="app_name">LayoutTransChanging</string>
+    <string name="removeButton">Remove Item</string>
+</resources>
